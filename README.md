@@ -10,3 +10,15 @@ Frontend: HTML, CSS, JavaScript
 Machine Learning Models:
 Random Forest for Liver Disease Prediction
 Deep Learning Model for Fatty Liver Classification
+
+# Liver Disease Prediction
+
+## Homepage
+![Homepage](Homepage.png)
+
+## Features Page
+![Second Page](secondpage.png)
+
+## Contact Page
+![Third Page](Thirdpage.png)
+
