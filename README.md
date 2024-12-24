@@ -17,8 +17,8 @@ Deep Learning Model for Fatty Liver Classification
 ![Homepage](Homepage.png)
 
 ## Features Page
-![Second Page](secondpage.png)
+![Ultrasound](secondpage.png)
 
 ## Contact Page
-![Third Page](Thirdpage.png)
+![Clinical](Thirdpage.png)
 
